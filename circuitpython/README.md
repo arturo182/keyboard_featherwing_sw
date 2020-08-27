@@ -13,7 +13,7 @@ Here are the libraries needed for the code to work properly:
 | SD Card        | `adafruit_sdcard`         | https://github.com/adafruit/Adafruit_CircuitPython_SD |
 | Touch Display  | `adafruit_stmpe610`       | https://github.com/adafruit/Adafruit_CircuitPython_STMPE610 |
 | Graphic Label  | `adafruit_display_text`   | https://github.com/adafruit/Adafruit_CircuitPython_Display_Text |
-| Graphic Shapes | `adafruit_display_shapes` | https://github.com/ladyada/Adafruit_CircuitPython_Display_Shapes |
+| Graphic Shapes | `adafruit_display_shapes` | https://github.com/adafruit/Adafruit_CircuitPython_Display_Shapes |
 
 The `factory_test.py` file also has an optional dependency to `adafruit_pct2075` from https://github.com/adafruit/Adafruit_CircuitPython_PCT2075
 
